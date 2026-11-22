@@ -1,0 +1,17 @@
+C:\Users\salahadin\OneDrive\Documents\adii\c#_codes\Activity5\SolidRefactoringLab\SolidRefactoringLab\bin\Debug\net11.0\SolidRefactoringLab.exe
+C:\Users\salahadin\OneDrive\Documents\adii\c#_codes\Activity5\SolidRefactoringLab\SolidRefactoringLab\bin\Debug\net11.0\SolidRefactoringLab.deps.json
+C:\Users\salahadin\OneDrive\Documents\adii\c#_codes\Activity5\SolidRefactoringLab\SolidRefactoringLab\bin\Debug\net11.0\SolidRefactoringLab.runtimeconfig.json
+C:\Users\salahadin\OneDrive\Documents\adii\c#_codes\Activity5\SolidRefactoringLab\SolidRefactoringLab\bin\Debug\net11.0\SolidRefactoringLab.runtimeconfig.dev.json
+C:\Users\salahadin\OneDrive\Documents\adii\c#_codes\Activity5\SolidRefactoringLab\SolidRefactoringLab\bin\Debug\net11.0\SolidRefactoringLab.dll
+C:\Users\salahadin\OneDrive\Documents\adii\c#_codes\Activity5\SolidRefactoringLab\SolidRefactoringLab\bin\Debug\net11.0\SolidRefactoringLab.pdb
+C:\Users\salahadin\OneDrive\Documents\adii\c#_codes\Activity5\SolidRefactoringLab\SolidRefactoringLab\obj\Debug\net11.0\SolidRefactoringLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salahadin\OneDrive\Documents\adii\c#_codes\Activity5\SolidRefactoringLab\SolidRefactoringLab\obj\Debug\net11.0\SolidRefactoringLab.AssemblyInfoInputs.cache
+C:\Users\salahadin\OneDrive\Documents\adii\c#_codes\Activity5\SolidRefactoringLab\SolidRefactoringLab\obj\Debug\net11.0\SolidRefactoringLab.AssemblyInfo.cs
+C:\Users\salahadin\OneDrive\Documents\adii\c#_codes\Activity5\SolidRefactoringLab\SolidRefactoringLab\obj\Debug\net11.0\SolidRefactoringLab.csproj.CoreCompileInputs.cache
+C:\Users\salahadin\OneDrive\Documents\adii\c#_codes\Activity5\SolidRefactoringLab\SolidRefactoringLab\obj\Debug\net11.0\SolidRefactoringLab.sourcelink.json
+C:\Users\salahadin\OneDrive\Documents\adii\c#_codes\Activity5\SolidRefactoringLab\SolidRefactoringLab\obj\Debug\net11.0\SolidRefactoringLab.dll
+C:\Users\salahadin\OneDrive\Documents\adii\c#_codes\Activity5\SolidRefactoringLab\SolidRefactoringLab\obj\Debug\net11.0\refint\SolidRefactoringLab.dll
+C:\Users\salahadin\OneDrive\Documents\adii\c#_codes\Activity5\SolidRefactoringLab\SolidRefactoringLab\obj\Debug\net11.0\SolidRefactoringLab.pdb
+C:\Users\salahadin\OneDrive\Documents\adii\c#_codes\Activity5\SolidRefactoringLab\SolidRefactoringLab\obj\Debug\net11.0\SolidRefactoringLab.genruntimeconfig.cache
+C:\Users\salahadin\OneDrive\Documents\adii\c#_codes\Activity5\SolidRefactoringLab\SolidRefactoringLab\obj\Debug\net11.0\ref\SolidRefactoringLab.dll
+C:\Users\salahadin\OneDrive\Documents\adii\c#_codes\Activity5\SolidRefactoringLab\SolidRefactoringLab\obj\Debug\net11.0\SolidRef.F1B170A9.Up2Date
